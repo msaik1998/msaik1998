@@ -34,26 +34,26 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=19Vin70&theme=prussian" width="100%" height="auto" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaik1998&theme=prussian" width="100%" height="auto" />
 </p>
 
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=19Vin70&theme=prussian" width="48%" height="auto" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=19Vin70&theme=prussian&utcOffset=+6.5" width="48%" height="auto" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=msaik1998&theme=prussian" width="48%" height="auto" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msaik1998&theme=prussian&utcOffset=+6.5" width="48%" height="auto" />
 </p>
 
 ## 🔥 Activity Graph
 
 <p>
-  <a href="https://github.com/19Vin70/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=19Vin70&theme=tokyo-night" alt="19Vin70's github activity graph" />
+  <a href="https://github.com/msaik1998/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=msaik1998&theme=tokyo-night" alt="msaik1998's github activity graph" />
   </a>
 </p>
 
 ## 🌟 Developer Badge
 
 <p>
-  <a href="https://stardev.io/developers/19Vin70">
-    <img src="https://stardev.io/developers/19Vin70/badge/languages/country.svg" alt="Check out 19Vin70's profile on stardev.io" />
+  <a href="https://stardev.io/developers/msaik1998">
+    <img src="https://stardev.io/developers/msaik1998/badge/languages/country.svg" alt="Check out msaik1998's profile on stardev.io" />
   </a>
 </p>
