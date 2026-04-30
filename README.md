@@ -1,59 +1,46 @@
-# Hi, I'm Marvin Quillo Saik <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<img src="assets/banner.png" width="100%" height="300" alt="Banner" />
 
-## 🚀 Technologies
+### ⚡ Profile Overview
 
-### 🖥 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=sass" title="Sass" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=react" title="React" />
-  <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" />
-</p>
+```javascript
+const overview = {
+  developer: "Marvin Quillo Saik",
+  tagline: "Crafting high-performance digital experiences with precision.",
+  focus: ["Fullstack", "Performance", "Optimization"],
+  motto: "Code is poetry, efficiency is the goal.",
+};
 
-### 🔧 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-  <img src="https://skillicons.dev/icons?i=cs" title="C#" />
-</p>
+console.log(overview);
+```
 
-### 🗄 Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
-  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
-  <img src="https://skillicons.dev/icons?i=appwrite" title="Appwrite" />
-</p>
+---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaik1998&theme=prussian" width="100%" height="auto" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,materialui,nodejs,express,php,python,cpp,cs,mysql,sqlite,firebase,appwrite,git,github,vscode" />
 
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=msaik1998&theme=prussian" width="48%" height="auto" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msaik1998&theme=prussian&utcOffset=+6.5" width="48%" height="auto" />
-</p>
+---
 
-## 🔥 Activity Graph
+### 📊 Performance Metrics
 
-<p>
-  <a href="https://github.com/msaik1998/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=msaik1998&theme=tokyo-night" alt="msaik1998's github activity graph" />
-  </a>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaik1998&theme=github_dark" width="100%" />
 
-## 🌟 Developer Badge
+<br/>
 
-<p>
-  <a href="https://stardev.io/developers/msaik1998">
-    <img src="https://stardev.io/developers/msaik1998/badge/languages/country.svg" alt="Check out msaik1998's profile on stardev.io" />
-  </a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msaik1998&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msaik1998&theme=github_dark&utcOffset=+8" width="49%" />
+
+---
+
+### 🔥 Activity
+
+<a href="https://github.com/msaik1998/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msaik1998&theme=github_compact" alt="Activity Graph" />
+</a>
+
+<br/>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Active-2E7D32?style=flat-square&logo=github" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Philippines-blue?style=flat-square" alt="Location" />
 </p>
