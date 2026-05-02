@@ -27,8 +27,10 @@ console.log(overview);
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msaik1998&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msaik1998&theme=github_dark&utcOffset=+8" width="49%" />
+<div style="display: flex; align-items: center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msaik1998&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msaik1998&theme=github_dark&utcOffset=+8" width="49%" />
+</div>
 
 ---
 
